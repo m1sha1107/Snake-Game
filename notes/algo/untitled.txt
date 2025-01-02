@@ -1,6 +1,0 @@
-residual neural networks
-feature pyramid network
-multi scale feature
-feature queue
-transformers
-recurrent neural net
